@@ -1,0 +1,1 @@
+{"name": "school-schedule-automator", "version": "1.0.0", "main": "server.js", "scripts": { "start": "node server.js" }, "dependencies": { "express": "^4.17.1", "pg": "^8.7.1", "dotenv": "^10.0.0", "cors": "^2.8.5", "body-parser": "^1.19.0" }, "devDependencies": { "nodemon": "^2.0.15" }}
